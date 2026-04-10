@@ -111,6 +111,10 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
 ---
+### Screenshots
+<img width="1024" height="613" alt="image" src="https://github.com/user-attachments/assets/60e8b122-db49-4857-8aea-2cd45f79f3f5" />
+<img width="1024" height="671" alt="image" src="https://github.com/user-attachments/assets/58b98c50-2185-4197-b684-5c7a96cd8eb8" />
+<img width="1024" height="550" alt="image" src="https://github.com/user-attachments/assets/a03b8ed5-7ef6-4d29-b5a2-f0a0fcbd08b7" />
 
 ### 5️⃣ Run database setup
 
