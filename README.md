@@ -1,9 +1,7 @@
 # 💰 Finance Dashboard
 
 Track your income and expenses with a modern full-stack finance dashboard.
-<img width="1055" height="632" alt="image" src="https://github.com/user-attachments/assets/3dff0208-ac65-4fe0-815f-7d252cdbf6df" />
-
-
+<img width="1024" height="774" alt="image" src="https://github.com/user-attachments/assets/244ae2fc-8b72-406d-9650-b1fdd9c55ee3" />
 ---
 
 ## ⚙️ Tech Stack
